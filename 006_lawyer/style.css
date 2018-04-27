@@ -1,0 +1,40 @@
+body {
+	background-color: #0C1F25;
+	font-family: Do Hyeon;
+}
+
+.navbar {
+	max-width: 100%;
+	margin: 0 auto;
+	color: white;
+}
+
+.navbar-brand {
+	font-family: permanent marker;
+	font-size: 2.0em;
+	color: #FC3714;
+}
+
+#eyuppic {
+	width: 40%;
+}
+#jumbo {
+	margin-top: 100px;
+}
+
+#jumbo1 {
+	background-color: #FCB611;
+}
+#jumbo2 {
+	background-color: #FC3714;
+	color: white;
+}
+#jumbo3 {
+	background-color: #76DBBF;
+}
+#jumbo4 {
+	background-color: #F5EAB9;
+}
+#jumbo5 {
+	background-color: #FCB611;
+}
